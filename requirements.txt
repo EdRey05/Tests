@@ -2,4 +2,5 @@ numpy
 matplotlib
 seaborn
 pandas
-mitosheet
+ipywidgets
+XlsxWriter
